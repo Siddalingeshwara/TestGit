@@ -1,2 +1,4 @@
 # TestGit
-saving my example ruby eaxmple
+This is my first git file.
+
+#GoGit
